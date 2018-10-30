@@ -1,0 +1,113 @@
+{
+  "uid" : "f78597dcfbb7c0da",
+  "name" : "login",
+  "fullName" : "TestSuite : AutoQA.login",
+  "historyId" : "db6ea312d5463179a7f8f16511907cd6",
+  "time" : {
+    "start" : 1540891866922,
+    "stop" : 1540891875483,
+    "duration" : 8561
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "host",
+    "value" : "5CD6474QH2"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "thread",
+    "value" : "3860@5CD6474QH2.main(1)"
+  }, {
+    "name" : "suite",
+    "value" : "TestSuite : AutoQA"
+  }, {
+    "name" : "testClass",
+    "value" : "TestSuite : AutoQA"
+  }, {
+    "name" : "testMethod",
+    "value" : "login"
+  }, {
+    "name" : "package",
+    "value" : "TestSuite : AutoQA"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 1,
+        "skipped" : 0,
+        "passed" : 10,
+        "unknown" : 0,
+        "total" : 11
+      },
+      "items" : [ {
+        "uid" : "d75595988b2db2c8",
+        "reportUrl" : "http://localhost:8080/jenkins/job/Test2/23/allure/#testresult/d75595988b2db2c8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1538558086913,
+          "stop" : 1538558089824,
+          "duration" : 2911
+        }
+      }, {
+        "uid" : "db0047dd283be97b",
+        "reportUrl" : "http://localhost:8080/jenkins/job/Test2/22/allure/#testresult/db0047dd283be97b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1538556661025,
+          "stop" : 1538556670377,
+          "duration" : 9352
+        }
+      }, {
+        "uid" : "1a949bc5eeda158d",
+        "reportUrl" : "http://localhost:8080/jenkins/job/Test2/21/allure/#testresult/1a949bc5eeda158d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1538554252339,
+          "stop" : 1538554254893,
+          "duration" : 2554
+        }
+      }, {
+        "uid" : "90dd8c49404501cd",
+        "reportUrl" : "http://localhost:8080/jenkins/job/Test2/20/allure/#testresult/90dd8c49404501cd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1538493123130,
+          "stop" : 1538493125985,
+          "duration" : 2855
+        }
+      }, {
+        "uid" : "476b526f7ba1525e",
+        "reportUrl" : "http://localhost:8080/jenkins/job/Test2/19/allure/#testresult/476b526f7ba1525e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1537886970309,
+          "stop" : 1537886972243,
+          "duration" : 1934
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "f78597dcfbb7c0da.json",
+  "parameterValues" : [ ]
+}

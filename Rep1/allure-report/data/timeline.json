@@ -1,0 +1,37 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "5CD6474QH2",
+    "children" : [ {
+      "name" : "3860@5CD6474QH2.main(1)",
+      "children" : [ {
+        "name" : "login",
+        "uid" : "f78597dcfbb7c0da",
+        "parentUid" : "0c0e2623c9b55d0a18d3d7497c546f99",
+        "status" : "passed",
+        "time" : {
+          "start" : 1540891866922,
+          "stop" : 1540891875483,
+          "duration" : 8561
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testingAction",
+        "uid" : "32346270d2e93b8a",
+        "parentUid" : "0c0e2623c9b55d0a18d3d7497c546f99",
+        "status" : "passed",
+        "time" : {
+          "start" : 1540891884676,
+          "stop" : 1540891894558,
+          "duration" : 9882
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0c0e2623c9b55d0a18d3d7497c546f99"
+    } ],
+    "uid" : "a58c493e39721f668c70ca0ceb43582e"
+  } ]
+}

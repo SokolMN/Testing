@@ -1,0 +1,86 @@
+{
+  "uid" : "32346270d2e93b8a",
+  "name" : "testingAction",
+  "fullName" : "TestSuite : AutoQA.testingAction",
+  "historyId" : "88d50b18eba34a0c74eb6dc18d1d716b",
+  "time" : {
+    "start" : 1540891884676,
+    "stop" : 1540891894558,
+    "duration" : 9882
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "host",
+    "value" : "5CD6474QH2"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "thread",
+    "value" : "3860@5CD6474QH2.main(1)"
+  }, {
+    "name" : "suite",
+    "value" : "TestSuite : AutoQA"
+  }, {
+    "name" : "testClass",
+    "value" : "TestSuite : AutoQA"
+  }, {
+    "name" : "testMethod",
+    "value" : "testingAction"
+  }, {
+    "name" : "package",
+    "value" : "TestSuite : AutoQA"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 3,
+        "unknown" : 0,
+        "total" : 3
+      },
+      "items" : [ {
+        "uid" : "8a0f7f59697bbd71",
+        "reportUrl" : "http://localhost:8080/jenkins/job/Test2/23/allure/#testresult/8a0f7f59697bbd71",
+        "status" : "passed",
+        "time" : {
+          "start" : 1538558098882,
+          "stop" : 1538558108862,
+          "duration" : 9980
+        }
+      }, {
+        "uid" : "5bd012684f40b8d1",
+        "reportUrl" : "http://localhost:8080/jenkins/job/Test2/22/allure/#testresult/5bd012684f40b8d1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1538556680429,
+          "stop" : 1538556691044,
+          "duration" : 10615
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "32346270d2e93b8a.json",
+  "parameterValues" : [ ]
+}
